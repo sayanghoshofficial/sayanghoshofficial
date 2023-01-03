@@ -1,3 +1,5 @@
+<img align="center" width="1000" height="250" src="https://user-images.githubusercontent.com/99132893/210397539-7bec529a-4bb5-49d4-8f35-b6642dd8a65f.gif">
+
 # 💫 About Me:
 🔭 I’m currently Updating My Skills<br>🌱 I’m currently learning: Java, HTML, CSS, JavaScript, React, NodeJS<br>📫 How to reach me: sayanghosh379@gmail.com<br>👨‍💻 All of my projects are available at: https://github.com/sayanghoshofficial<br>📄 Know about my experiences: https://drive.google.com/file/d/1aJXyaR8dgu9_HV20U0GQefwmw6RPb_8b/view?usp=sharing<br>⚡ Fun fact: Love to be Sarcastic🤗<br>
 
