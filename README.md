@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently Updating My Skills<br>🌱 I’m currently learning: Java, HTML, CSS, JavaScript, React, NodeJS<br>📫 How to reach me: sayanghosh379@gmail.com<br>👨‍💻 All of my projects are available at: https://github.com/sayanghoshofficial<br>📄 Know about my experiences: https://drive.google.com/file/d/1aJXyaR8dgu9_HV20U0GQefwmw6RPb_8b/view?usp=sharing<br>⚡ Fun fact: Love to be Sarcastic🤗<br>
 
-![coding](https://github.com/sayanghoshofficial/sayanghoshofficial/blob/main/giphy.gif)
+<img align="right" width="400" src="https://user-images.githubusercontent.com/99132893/210392636-50a29244-7b85-4770-a584-7bb49f01dbb3.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SayanGhoshOfficial97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SayanGhoshOfficial) 
