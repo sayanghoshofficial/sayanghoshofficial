@@ -1,7 +1,7 @@
 <img align="center" width="1000" height="250" src="https://user-images.githubusercontent.com/99132893/210400174-47428360-f926-404d-a4d4-1650d0734068.gif">
 
 # 💫 About Me:
-🔭 I’m currently Updating My Skills<br>🌱 I’m currently learning: Java, HTML, CSS, JavaScript, React, NodeJS<br>📫 How to reach me: sayanghosh379@gmail.com<br>👨‍💻 All of my projects are available at: https://github.com/sayanghoshofficial<br>📄 Know about my experiences: https://drive.google.com/file/d/1UNkFIQJkp8V1kskh25Su8jA7NeVEZJTO/view?usp=sharing <br>⚡ Fun fact: Love to be Sarcastic🤗<br>
+🔭 I’m currently Updating My Skills<br>🌱 I’m currently learning: Java, HTML, CSS, JavaScript, React, NodeJS<br>📫 How to reach me: sayanghosh379@gmail.com<br>👨‍💻 All of my projects are available at: https://github.com/sayanghoshofficial<br>📄 Know about my experiences: https://drive.google.com/file/d/1TGrMkTRUIjOEjD3dMiwBm5mQHn7-tght/view?usp=sharing <br>⚡ Fun fact: Love to be Sarcastic🤗<br>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/99132893/210392636-50a29244-7b85-4770-a584-7bb49f01dbb3.gif">
 
