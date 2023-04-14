@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sayanghoshofficial&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sayanghoshofficial&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
