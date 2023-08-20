@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently Updating My Skills<br>🌱 I’m currently learning: Java, HTML, CSS, JavaScript, React, NodeJS<br>📫 How to reach me: sayanghosh379@gmail.com<br>👨‍💻 All of my projects are available at: https://github.com/sayanghoshofficial?tab=repositories <br>📄 Know about my experiences: https://drive.google.com/file/d/19DZeDpIndJsk_M-8ynQ9AS_LR3e847NO/view?usp=sharing <br>⚡ Fun fact: Love to be Sarcastic🤗<br>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/99132893/210392636-50a29244-7b85-4770-a584-7bb49f01dbb3.gif">
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/99132893/210392636-50a29244-7b85-4770-a584-7bb49f01dbb3.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SayanGhoshOfficial97)  [![Youtube](https://img.shields.io/badge/-YouTube-darkred?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UClCLLStmE41ejOJZoZI237Q) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SayanGhoshOfficial) [![HackerRank](https://img.shields.io/badge/-HackerRank-darkgreen.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sayanghosh379) [![CodeStudio](https://img.shields.io/badge/CS-CodeStudio-darkred.svg?logo=codestudio&logoColor=white)](https://www.codingninjas.com/codestudio/profile/e22ca916-05f5-4726-8537-c64a7d25b356)
